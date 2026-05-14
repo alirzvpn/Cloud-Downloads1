@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4987",
+  "folder": "Other__v187_20260514142432_52a2ad",
+  "base_name": "Other__v187_20260514142432_52a2ad.zip",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/alirzvpn/Cloud-Downloads1/releases/tag/co-releases-v1-4987",
+  "files": [
+    {
+      "name": "Other__v187_20260514142432_52a2ad.zip",
+      "url": "https://github.com/alirzvpn/Cloud-Downloads1/releases/download/co-releases-v1-4987/Other__v187_20260514142432_52a2ad.zip",
+      "api_url": "https://api.github.com/repos/alirzvpn/Cloud-Downloads1/releases/assets/420217948",
+      "id": 420217948,
+      "size": 51732721,
+      "download_count": 0
+    }
+  ]
+}
